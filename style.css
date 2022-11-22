@@ -14,10 +14,8 @@ body{
     background: #0F4D91;
     padding-right: 3%;
     padding-left: 3%;
-}
-
-h2{
-    color: aliceblue;
+    color: #FADA5F;
+    font-weight: 700;
 }
 
 table{
